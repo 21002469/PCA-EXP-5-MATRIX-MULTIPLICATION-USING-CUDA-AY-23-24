@@ -1,9 +1,9 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>AIM:</h3>To perform Matrix Multiplication using Transposition using shared memory.
-<h3>ENTER YOUR NAME</h3>P.Narendra
-<h3>ENTER YOUR REGISTER NO</h3>212221040117
-<h3>EX. NO</h3>05
-<h3>DATE</h3>
+<h3>ENTER YOUR NAME</h3>:P.Narendra
+<h3>ENTER YOUR REGISTER NO</h3>:212221040117
+<h3>EX. NO</h3>:05
+<h3>DATE</h3>:07/05/2024
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
